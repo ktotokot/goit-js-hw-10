@@ -1,0 +1,42 @@
+.btn-create {
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  width: 360px;
+  height: 40px;
+  background: #4e75ff;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #fff;
+  margin: auto;
+}
+.label-delay {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+  width: 360px;
+  height: 72px;
+}
+.input-delay {
+  width: 360px;
+  height: 40px;
+  fill: none;
+  margin-top: 8px;
+}
+.state {
+  padding-left: 0;
+  padding-right: 0;
+  width: 360px;
+  height: 78px;
+  margin-top: 16px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+.legend {
+  text-align: left;
+}
